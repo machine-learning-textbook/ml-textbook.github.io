@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Textbook: Mitigating Bias in Machine Learning 
 
-You can use the [editor on GitHub](https://github.com/machine-learning-textbook/ml-textbook.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Although Machine Learning (ML) has recently experienced exponential growth, there are few texts about the presence of bias or discussions of promoting ethics in robotics, artificial intelligence, and machine learning. The authors and editors propose publication of text from the perspective of diverse communities (women, Black, Latino, Hispanic, Indigenous, Disabled, LGBTQ+, International including Africa, Central and South America). 
 
-### Markdown
+In addition, there are few textbooks with practical applications of machine learning for undergraduate and graduate students. In order to enhance ML courses for these students, there is a need for a textbook with laboratory assignments, simulations, etc., so students can appreciate the richness of the field through active learning. This book will serve as an introductory text on ML that surveys several tools and illustrates how to use various tools for collecting and managing data and implementing practical algorithms, in addition to addressing bias and promoting ethics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Call for Chapters (McGraw-Hill)
+--- 
 
-# Header 1
-## Header 2
-### Header 3
+We invite contributors to submit chapters to the Machine Learning book tentatively titled "Mitigating Bias in Machine Learning". We invite chapters relevant to our goals to enhance students’ active learning / experiences, mitigate bias, promote ethics and amplify perspectives about these topics. We invite authors from diverse communities.
 
-- Bulleted
-- List
+[MLTextbook Call for Chapter Form](http://bit.ly/MLTextbook)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/machine-learning-textbook/ml-textbook.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--- 
+If you have any questions, please email editor at `machinelearningtext@gmail.com`
+**Editor:** 
+Carlotta A. Berry | Professor
+Lawrence J. Giacoletto Endowed Chair in Eletrical Engineering
+ROSE-HULMAN INSTITUTE OF TECHNOLOGY
